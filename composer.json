@@ -1,9 +1,9 @@
 {
-    "name": "jyggen/curl",
+    "name": "adabra/curl",
     "description": "A simple and lightweight cURL library with support for asynchronous requests.",
     "type": "library",
     "keywords": ["cURL", "HTTP", "Asynchronous", "Spider", "Bot", "Request", "Crawler", "multi"],
-    "homepage": "https://github.com/jyggen/curl",
+    "homepage": "https://github.com/AdSpray/curl",
     "license": "MIT",
     "authors": [
         {
@@ -13,8 +13,8 @@
         }
     ],
     "support": {
-        "issues": "https://github.com/jyggen/curl/issues",
-        "source": "https://github.com/jyggen/curl"
+        "issues": "https://github.com/AdSpray/curl/issues",
+        "source": "https://github.com/AdSpray/curl"
     },
     "require": {
         "php": ">=5.4",
