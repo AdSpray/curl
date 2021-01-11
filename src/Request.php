@@ -51,6 +51,7 @@ class Request implements RequestInterface
     protected $defaults = [
         CURLOPT_RETURNTRANSFER => true,
         CURLOPT_HEADER         => true,
+        CURLOPT_USERAGENT => "AdabraCrawler/1.0 (Adabra)",
     ];
 
     /**
