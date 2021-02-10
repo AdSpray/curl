@@ -52,6 +52,7 @@ class Request implements RequestInterface
         CURLOPT_RETURNTRANSFER => true,
         CURLOPT_HEADER         => true,
         CURLOPT_USERAGENT => "AdabraCrawler/1.0 (Adabra)",
+        CURLOPT_SSL_VERIFYPEER => false
     ];
 
     /**
